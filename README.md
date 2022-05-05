@@ -1,6 +1,6 @@
 preview link
 
-https://app.netlify.com/sites/drummachine-2022/overview
+https://drummachine-2022.netlify.app/
 
 # Drum-machine
 
